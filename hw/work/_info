@@ -1,0 +1,265 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Aksel/Desktop/ece554/minilab5/ECE554-MP5-TPU-Control-Unit/hw
+Xafu_tc_svh_unit
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1633496163
+VO=ejF0T1<UUM<04@0=dOj2
+r1
+!s85 0
+!i10b 1
+!s100 >^Ez7XaYj4mzgB[FL2R5D1
+IO=ejF0T1<UUM<04@0=dOj2
+!i103 1
+S1
+Z2 dC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw
+Z3 w1633378072
+8C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/afu_tc.svh
+FC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/afu_tc.svh
+!i122 103
+Z4 L0 3 0
+Z5 OV;L;2020.1;71
+31
+Z6 !s108 1633496163.000000
+!s107 C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/afu_tc.svh|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/afu_tc.svh|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vfifo
+R0
+R1
+!i10b 1
+!s100 lKGT^LBe]2:W`en7XmQcz0
+Z9 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IG4SfX`6^XUlnMI0K[?61]3
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R2
+R3
+8C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/fifo.sv
+FC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/fifo.sv
+!i122 104
+L0 6 34
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/fifo.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/fifo.sv|
+!i113 1
+R7
+R8
+vmemA
+R0
+Z11 !s110 1633496164
+!i10b 1
+!s100 :Ah?Mc`k>P[<[@;PEc[::3
+R9
+ILPeD^AoHL0WNc0DXPXLz_1
+R10
+S1
+R2
+w1633493279
+8C:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\memA.sv
+FC:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\memA.sv
+!i122 105
+L0 1 50
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\memA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\memA.sv|
+!i113 1
+R7
+R8
+nmem@a
+vmemB
+R0
+R11
+!i10b 1
+!s100 l[COz@?05N5ENziiB`4nl1
+R9
+Ih`4LFVNb0noWgcGoh]fAd0
+R10
+S1
+R2
+R3
+8C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/memB.sv
+FC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/memB.sv
+!i122 106
+L0 1 29
+R5
+r1
+!s85 0
+31
+Z12 !s108 1633496164.000000
+!s107 C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/memB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/memB.sv|
+!i113 1
+R7
+R8
+nmem@b
+vsystolic_array
+R0
+R11
+!i10b 1
+!s100 GLOHfh@0OJhlSnc>ZU0b>3
+R9
+IS5S@W`<7KJa:1cTzDYG9l3
+R10
+S1
+R2
+R3
+8C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/systolic_array.sv
+FC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/systolic_array.sv
+!i122 107
+L0 1 65
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/systolic_array.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/systolic_array.sv|
+!i113 1
+R7
+R8
+vtpumac
+R0
+R11
+!i10b 1
+!s100 zaZHHEil;S`LUd@gP5YGh0
+R9
+I]2[h5OXaABR56HeQ3HjN23
+R10
+S1
+R2
+R3
+8C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpumac.sv
+FC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpumac.sv
+!i122 108
+L0 2 41
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpumac.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpumac.sv|
+!i113 1
+R7
+R8
+vtpuv1
+R0
+R11
+!i10b 1
+!s100 zQz[>DdPkNSTSK<@a?B_g3
+R9
+IBJ7KWEZAii4QMoG>b6mYh0
+R10
+S1
+R2
+w1633496159
+8C:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\tpuv1.sv
+FC:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\tpuv1.sv
+!i122 109
+L0 1 177
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\tpuv1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Aksel\Desktop\ece554\minilab6\ece554_minilab6\hw\tpuv1.sv|
+!i113 1
+R7
+R8
+vtpuv1_integration_tb
+R0
+DXx4 work 28 tpuv1_integration_tb_sv_unit 0 22 XbffC81TOJP525@:RHb>C2
+Z13 !s110 1633496165
+R10
+r1
+!s85 0
+!i10b 1
+!s100 n^kP`4D4L8154S74Nf6ga1
+I`zY2]d3MdTTT`ECWP6heS1
+!s105 tpuv1_integration_tb_sv_unit
+S1
+R2
+R3
+Z14 8C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpuv1_integration_tb.sv
+Z15 FC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpuv1_integration_tb.sv
+!i122 110
+L0 9 225
+R5
+31
+Z16 !s108 1633496165.000000
+Z17 !s107 afu_tc.svh|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpuv1_integration_tb.sv|
+Z18 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/tpuv1_integration_tb.sv|
+!i113 1
+R7
+R8
+Xtpuv1_integration_tb_sv_unit
+R0
+R13
+VXbffC81TOJP525@:RHb>C2
+r1
+!s85 0
+!i10b 1
+!s100 =Qb?2b4iJL;0zHi;JDbfK3
+IXbffC81TOJP525@:RHb>C2
+!i103 1
+S1
+R2
+R3
+R14
+R15
+Fafu_tc.svh
+!i122 110
+R4
+R5
+31
+R16
+R17
+R18
+!i113 1
+R7
+R8
+vtranspose_fifo
+R0
+R13
+!i10b 1
+!s100 QKFINAQ?fV8N;z]445UHc0
+R9
+Ig4b:15Z?<YZF[NDS8WWdf2
+R10
+S1
+R2
+w1633392452
+8C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/transpose_fifo.sv
+FC:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/transpose_fifo.sv
+!i122 111
+L0 6 81
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/transpose_fifo.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aksel/Desktop/ece554/minilab6/ece554_minilab6/hw/transpose_fifo.sv|
+!i113 1
+R7
+R8
